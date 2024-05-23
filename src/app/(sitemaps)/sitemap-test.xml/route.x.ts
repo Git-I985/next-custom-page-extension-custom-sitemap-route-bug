@@ -1,0 +1,1 @@
+export const GET = () => new Response('It will return file content because route starts with "sitemap"')
